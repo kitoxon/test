@@ -46,7 +46,7 @@ window.PaperSections.$canvas = $(view.canvas);
 
 window.PaperSections.data = window.PaperSections.$canvas.data();
 
-window.PaperSections.data.colors = window.PaperSections.data.colors.split(':');
+
 
 if ((_ref = (_base = window.PaperSections.data).sectionscount) == null) {
   _base.sectionscount = window.PaperSections.data.colors.length;
