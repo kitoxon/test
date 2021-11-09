@@ -1,4 +1,3 @@
-
 paper.install(window);          
 paper.setup('myCanvas1'); 
 
@@ -431,5 +430,3 @@ if (window.PaperSections.win || window.PaperSections.ff) {
   window.PaperSections.$container.addClass('is-with-scroll');
 }
  
-
-
